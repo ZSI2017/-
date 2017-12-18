@@ -1,6 +1,8 @@
 ##  整理网上优秀文章,博客,论坛,...
 
-分类规则比较随意，后面随着收集的网址增多，会慢慢细化。
+  ** 站在巨人的肩膀上 **
+
+分类规则比较随意，主要来源实际项目中学习，后面随着收集的网址增多，会慢慢细化。
 
 ### html
 - #### 教学类
@@ -29,7 +31,16 @@
 
 ### css
   - [flex 布局](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)(阮大神)
-
+  - [Grid 布局(兼容新 比较低)](https://www.w3cplus.com/css3/how-to-enable-support-for-grid-layout-in-various-browsers.html)
+  - [line-height:150% 和 1.5](https://www.zhihu.com/question/20394889)
+  - [line-height 深入理解](http://www.zhangxinxu.com/wordpress/2009/11/css%E8%A1%8C%E9%AB%98line-height%E7%9A%84%E4%B8%80%E4%BA%9B%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E5%8F%8A%E5%BA%94%E7%94%A8/)
+  - [line-height ,hight  文字居中](https://segmentfault.com/q/1010000006032019)
+  - [字号和行高 ](https://juejin.im/post/593fcecb5c497d006ba82be1)
+  - [vertical-align 和 line-height的基友关系](http://www.zhangxinxu.com/wordpress/2015/08/css-deep-understand-vertical-align-and-line-height/)
+  - [textarea 出现超大光标](https://segmentfault.com/q/1010000004973713)
+  - [css Shapes 实现元素环绕iphoneX 头部刘海效果](http://www.zhangxinxu.com/wordpress/2017/09/css-shapes-outside-iphone-x-head/)
+  - [zoom 和 transform:scale 的区别](http://www.zhangxinxu.com/wordpress/2015/11/zoom-transform-scale-diff/)
+  - [20个css高级技巧汇总](https://mp.weixin.qq.com/s/MavtDznPVECblDUTq_W-Rg)
 
 ### css3
   - [CSS transform 中的Matrix(矩阵)](http://www.zhangxinxu.com/wordpress/2012/06/css3-transform-matrix-%E7%9F%A9%E9%98%B5/) （鑫大神的博客）
@@ -45,7 +56,10 @@
     - [Yocto - Anima官方提供的dom操作基础库](https://npm.taobao.org/package/anima-yocto)
     - [Datatables - 一款jquery表格插件](http://www.datatables.club/)
     - [每天写点代码- John Resig](https://johnresig.com/blog/write-code-every-day/)
-
+    - [art-template - 号称最快的模板引擎](https://github.com/aui/art-template)
+    - [前端代码规范--总结github库代码习惯](http://alloyteam.github.io/CodeGuide/)
+    - [Baidu 前端代码规范](https://zhuanlan.zhihu.com/p/19884834?columnSlug=fuyun)
+    - [不要在js中使用css(英文版)](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc)
 - ### 实用类
    - [Error 对象](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error)(MDN)
    - [获取setInterval中函数的返回值](https://segmentfault.com/q/1010000005180609)
@@ -74,6 +88,7 @@
    - [无线加载分页](http://blog.csdn.net/helloxiaoliang/article/details/51492250)
    - [fastclick 源码分析](http://www.cnblogs.com/vajoy/p/5522114.html)
    - [touchmove](http://www.mizuiren.com/452.html)
+   - [git 四个阶段的撤销更改（非常实用](https://segmentfault.com/a/1190000011969554?from=singlemessage&isappinstalled=0)
 - #### bugs
    - [label标签的两次click触发](http://blog.csdn.net/qq_34099161/article/details/53257423)
    - [label 点击 两次触发](https://www.tuicool.com/articles/zqy2Ez)
@@ -88,6 +103,16 @@
     - [better-scroll](https://ustbhuangyi.github.io/better-scroll/doc/zh-hans/#better-scroll 是什么)
     - [iscroll](https://github.com/cubiq/iscroll)
     - [mobiscroll](https://mobiscroll.com/responsive-calendar#overview)
+
+
+  - #### requireJS
+      - [requireJS 入门(非官网)](https://www.tuicool.com/articles/jam2Anv)
+      - [requireJS中的define和require 使用](https://www.zhihu.com/question/21260764/answer/20758189)
+
+  - #### CommonJS
+    - [CommonJS Modules/1.0 规范](http://blog.jobbole.com/49290/)
+
+
   - #### 算法
     - [常用排序算法的时间复杂度和空间复杂度](http://blog.csdn.net/wuxinyicomeon/article/details/5996675/)
     - [时间复杂度和空间复杂度](http://blog.csdn.net/booirror/article/details/7707551/)
@@ -104,17 +129,42 @@
      - [es6 箭头函数](http://www.infoq.com/cn/articles/es6-in-depth-arrow-functions)
 
 ### JQuery
-  - [jQuery密码强度](http://www.jq22.com/yanshi6881)
+   - [jQuery密码强度](http://www.jq22.com/yanshi6881)
     - [ 仿淘宝分类选择 ](http://www.jq22.com/yanshi9388)
     - [jQuery 图片边框线条动画效果](http://www.jq22.com/yanshi5585)
     - [仿造中国移动商城联动筛选特效](http://www.jq22.com/yanshi5401)
+    - [art-template](http://www.jq22.com/jquery-info1097)
 
 ### React
   - [react 高效开发脚手架](https://github.com/steamerjs/steamer-react/tree/dev)
+
+### Gulp
+   - [gulp 中文网](https://www.gulpjs.com.cn/docs/api/)
+   - [gulp 入门详解](http://www.ydcss.com/archives/18#lesson5)
+   - [gulp 简易demo](https://www.tuicool.com/articles/viequay)
+   - [gulp 编写插件入门](http://www.cnblogs.com/pingfan1990/p/4809128.html)
+   - [从fekit 转移到 gulp](https://segmentfault.com/a/1190000003060016)
+
+### webpack
+
+  - [webpack 官网（中文社区）](https://doc.webpack-china.org/)
+  - [webapck 官网（英文版 慎入）](https://webpack.github.io/docs/)
+  - [webpack 入门](http://www.jianshu.com/p/42e11515c10f#)
+  - [webpack 入门（阮大神的16个demo,简单易学）](https://github.com/ruanyf/webpack-demos#demo01-entry-file-source)
+  - [webpack 路径配置](http://www.jb51.net/article/116447.htm?utm_source=debugrun&utm_medium=referral)（output.path || ouput.publicPath）
+  - [最好的webpack配置入门文章(译)](https://segmentfault.com/a/1190000005089993)
+  - [webapck 打包过大 优化](https://segmentfault.com/a/1190000007892189)
+  - [webapck 使用优化（基本篇）](https://github.com/lcxfs1991/blog/issues/2)（适合入门后，真实项目中学习优化方案，有基础篇就有高级篇(〃'▽'〃)）
+
+  - [string-loader -插件](http://cnodejs.org/topic/5722073535af8a704195f551)
+  - [Dev Server - 插件](http://www.jianshu.com/p/941bfaf13be1)
+  - [dev-server结合后端服务器的热替换配置](http://www.jianshu.com/p/8adf4c2bfa51)
+  - [webpack for react （英文版）](http://engineering.invisionapp.com/post/optimizing-webpack/)
 
 ### Vue
    - [ElementUI ](http://element.eleme.io/#/zh-CN/component/message-box)(没有UI，也可以让页面好看)
 
 ### 未分类
    - [Vim 配置](https://github.com/shfshanyue/vim-config)
+   - [atom 配置](https://github.com/kompasim/atom-plugins/blob/master/README.md)
    - [手工打造一个模块化的状态栏 - SpaceVim statusline](http://www.jianshu.com/p/be899202399e)
