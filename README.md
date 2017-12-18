@@ -19,7 +19,7 @@
    - [W3scool -- 标准文档](http://www.w3school.com.cn/jquery/index.asp)
    - [jQuery 中文网](https://www.jquery123.com/nth-child-selector/)
    - [Qunar UED](http://ued.qunar.com/)
-   - [Awesomes][https://www.awesomes.cn/]
+   - [Awesomes](https://www.awesomes.cn/)
 
 
 - #### 文档类
@@ -156,11 +156,11 @@
      - [es6 箭头函数](http://www.infoq.com/cn/articles/es6-in-depth-arrow-functions)
 
 ### JQuery
-   - [jQuery密码强度](http://www.jq22.com/yanshi6881)
-    - [ 仿淘宝分类选择 ](http://www.jq22.com/yanshi9388)
-    - [jQuery 图片边框线条动画效果](http://www.jq22.com/yanshi5585)
-    - [仿造中国移动商城联动筛选特效](http://www.jq22.com/yanshi5401)
-    - [art-template](http://www.jq22.com/jquery-info1097)
+  - [jQuery密码强度](http://www.jq22.com/yanshi6881)
+  - [ 仿淘宝分类选择 ](http://www.jq22.com/yanshi9388)
+  - [jQuery 图片边框线条动画效果](http://www.jq22.com/yanshi5585)
+  - [仿造中国移动商城联动筛选特效](http://www.jq22.com/yanshi5401)
+  - [art-template](http://www.jq22.com/jquery-info1097)
 
 ### React
   - [react 中文文档](https://react.bootcss.com/react/docs/state-and-lifecycle.html)
@@ -194,7 +194,7 @@
    - [React Native之Android Tabbar的实现.](http://blog.csdn.net/jj120522/article/details/51817903)（实用的tabbar)
    - [Navigator组件使用方式- 详解](http://www.jianshu.com/p/91fa0f34895e)
    - [React Native 与 夜神模拟器的绑定](http://www.cnblogs.com/hongguang-kim/p/5917633.html)（Genymotion 难下载的时候，可以试试这个）
-   
+
 ### Gulp
    - [gulp 中文网](https://www.gulpjs.com.cn/docs/api/)
    - [gulp 入门详解](http://www.ydcss.com/archives/18#lesson5)
@@ -221,6 +221,7 @@
 
 ### Vue
 
+   - [vue 入门 简介](http://www.csdn.net/article/1970-01-01/2825439)
    - [vuex   官网](https://vuex.vuejs.org/zh-cn/)
    - [vuex 解释 英文版](https://css-tricks.com/intro-to-vue-4-vuex/)
    - [vue-router 官网](https://router.vuejs.org/zh-cn/)
@@ -231,6 +232,7 @@
    - [axios ](https://github.com/axios/axios)(vue 官网维护 支持 Promise API )
    - [axios 中文说明](https://www.kancloud.cn/yunye/axios/234845)
    - [Vue 2.0封装axios](http://www.jianshu.com/p/3ab216fa185c)
+
 
    - [vue 登录权限控制](https://segmentfault.com/q/1010000008137883)
    - [ElementUI ](http://element.eleme.io/#/zh-CN/component/message-box)(没有UI，也可以让页面好看)
@@ -265,6 +267,7 @@
    - [七牛云 - 海量存储CDN](https://www.qiniu.com/)
    - [Nginx开发 从入门到精通](http://tengine.taobao.org/book/)
    - [nginx - 正向代理与反向代理](https://segmentfault.com/q/1010000003491873/a-1020000003492000)(sg 上高分问答)
+   - [npm 安装参数中的 --save-dev](https://segmentfault.com/q/1010000000403629)
    - [jekyll - 将纯文本转化为静态网站和博客](https://www.jekyll.com.cn/)
    - [UI 设计工具- 墨刀](https://modao.cc/signin#apps)
    - [更全的前端资源整理分享](https://segmentfault.com/a/1190000007062464#articleHeader25)
