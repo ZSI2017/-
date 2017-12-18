@@ -2,7 +2,7 @@
 
   ** 站在巨人的肩膀上 **
 
-分类规则比较随意，主要来源实际项目中学习，后面随着收集的网址增多，会慢慢细化。
+分类规则比较随意，主要来源实际项目中学习，后面随着收集的网址增多(人工爬虫)，会慢慢细化。
 
 ### html
 - #### 教学类
@@ -101,7 +101,10 @@
     - [xhEditor 用法](http://www.cnblogs.com/xcsn/p/4701497.html)
     - [minirefresh -下拉刷新插件](http://www.minirefresh.com/minirefresh-doc/)
     - [better-scroll](https://ustbhuangyi.github.io/better-scroll/doc/zh-hans/#better-scroll 是什么)
+    - [debuggap - VIDE 页面调试工具 webview](https://www.debuggap.com/zh-cn/)
+    - [Weinre 移动调试](http://www.cnblogs.com/andyWeb/p/5586756.html)
     - [iscroll](https://github.com/cubiq/iscroll)
+    - [iScroll 入门](http://www.cnblogs.com/asqq/archive/2012/04/23/2466132.html)
     - [mobiscroll](https://mobiscroll.com/responsive-calendar#overview)
 
 
