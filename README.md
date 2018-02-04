@@ -8,12 +8,12 @@
 持续更新
 
 ### Awesome-list
-[github-FE-project](https://github.com/hawx1993/github-FE-project)
-[Awesome-KnowledgeMap](https://github.com/wxyyxc1992/Awesome-KnowledgeMap)
+- [github-FE-project](https://github.com/hawx1993/github-FE-project)
+- [Awesome-KnowledgeMap](https://github.com/wxyyxc1992/Awesome-KnowledgeMap)
 
-### 大神博客
- [张云龙 -uc]https://github.com/fouber/blog
- [jawil] (https://github.com/jawil/blog)
+### 博客
+- [张云龙 -uc]https://github.com/fouber/blog
+- [jawil] (https://github.com/jawil/blog)
 
 ### html
 - #### 教学类
