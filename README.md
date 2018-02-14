@@ -10,6 +10,7 @@
 ### Awesome-list
 - [github-FE-project](https://github.com/hawx1993/github-FE-project)
 - [Awesome-KnowledgeMap](https://github.com/wxyyxc1992/Awesome-KnowledgeMap)
+- [font-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook#how-do-you-serve-a-page-with-content-in-multiple-languages)
 
 ### 博客
 - [张云龙 -uc]https://github.com/fouber/blog
