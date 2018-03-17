@@ -262,6 +262,7 @@
    - [Lavas](https://lavas.baidu.com/)(基于 Vue 的 PWA 解决方案，帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题)
    - [饿了么的 PWA 升级实践](https://zhuanlan.zhihu.com/p/27853228)
 
+   - [4种使用webpack提升vue应用的方式](https://mp.weixin.qq.com/s/ArRXwMOz2dPmgiJtNGxJqg)
    - [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review/)([勾三股四大神](https://github.com/jinjiang/)的博客 )
    - [vue 源码解析 入门](http://developer.51cto.com/art/201609/517669.htm)
    - [vue 响应式源码分析](https://juejin.im/post/597537fb5188255ab37a7e9a)
