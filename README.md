@@ -91,6 +91,7 @@
     - [不要在js中使用css(英文版)](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc)
     - [汤姆大叔的博客 -深入理解JavaScript 系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
     - [传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652)（sg 上高分经典文章之一，）
+    - [JavaScript 模块化讲解](https://segmentfault.com/a/1190000012464333)
     - [mock.js](http://mockjs.com/)(生成随机数据，拦截 Ajax 请求 - 假数据)
     - [移动端rem布局总结](https://segmentfault.com/a/1190000003690140)
 
